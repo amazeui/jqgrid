@@ -3,3 +3,5 @@ dist/*.html
 dist/docs
 .idea
 .DS_Store
+.publish
+*.log*

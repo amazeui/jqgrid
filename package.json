@@ -28,16 +28,16 @@
   "homepage": "https://github.com/amazeui/jqgrid",
   "license": "MIT",
   "devDependencies": {
-    "amazeui-doc-util": "latest",
-    "amazeui-gulp-tasks": "latest",
-    "browserify": "^10.2.4",
+    "amazeui-doc-util": "^0.5.0",
+    "amazeui-gulp-tasks": "0.0.6",
+    "browserify": "^13.0.0",
     "browserify-shim": "^3.8.8",
     "gulp": "^3.9.0",
-    "gulp-load-plugins": "^0.8.0",
+    "gulp-load-plugins": "^1.2.2",
     "run-sequence": "^1.0.2"
   },
   "dependencies": {
-    "amazeui": "^2.4.0",
+    "amazeui": "^2.6.2",
     "jquery": "^2.1.4"
   },
   "browserify-shim": {
